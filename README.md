@@ -4,3 +4,5 @@ Containing two files, the game logic and GUI, this project is a two-player strat
 
 ### Running the game
 To play the game, run the othello.py file, which imports the game logic module.
+
+![alt text](https://github.com/alexmovsesyan/othello/blob/master/othello.png)
